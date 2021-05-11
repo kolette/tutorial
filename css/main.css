@@ -1,0 +1,81 @@
+body{
+    font-family: 'Raleway', sans-serif;
+/*    background-image: url('../img/main.png');*/
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+
+/*nav*/
+
+a{
+    color: #2C363F;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+.hero-content{
+    margin-top: 4rem;
+}
+
+.hero-content h1{
+    font-weight: 900;
+    font-size: 3.5rem;
+}
+
+.hero-content h3{
+    font-weight: 700;
+}
+
+.social-icons-hero div {
+border: 1px solid #2C363F;
+border-radius: 50%;
+}
+
+/*About*/
+
+.section-heading{
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+
+.btn-main{
+    background-color: #2C363F;
+    color: #FAFAFF;
+    font-size: 1.3rem;
+
+}
+
+/*Services*/
+
+.service{
+    box-shadow: 2px 2px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 2rem;
+}
+
+.service h3{
+    font-weight: 700;
+}
+
+.service i{
+    font-size: 2rem;
+}
+
+/*Contact*/
+
+.contact input,
+.contact textarea{
+
+    padding: 1rem 0.4rem;
+    font-size: 1.3rem;
+    width: 100%;
+
+}
